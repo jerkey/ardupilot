@@ -1,9 +1,11 @@
 # Building ArduPilot #
 
 Ardupilot is gradually moving from the make-based build system to
-[Waf](https://waf.io/). The instructions below should be enough for you to
-build Ardupilot, but you can also read more about the build system in the
+[Waf](https://waf.io/). The instructions below should be enough for [Waf_you](
+build Ardupilot, but you can also read more about) the build system in the
 [Waf Book](https://waf.io/book/).
+
+The waf.io website is down, but there is a [Waf_mirror](http://www.freehackers.org/%7Etnagy/release/)
 
 Waf should always be called from the ardupilot's root directory. Differently
 from the make-based build, with Waf there's a configure step to choose the
